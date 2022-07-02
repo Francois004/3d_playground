@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lampadaire_Stylisé
+* source:	https://sketchfab.com/3d-models/lampadaire-stylise-db52ad930f0e43f480c7f8d4bcf7f355
+* author:	Trixma01 (https://sketchfab.com/Trixma01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lampadaire_Stylisé" (https://sketchfab.com/3d-models/lampadaire-stylise-db52ad930f0e43f480c7f8d4bcf7f355) by Trixma01 (https://sketchfab.com/Trixma01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
